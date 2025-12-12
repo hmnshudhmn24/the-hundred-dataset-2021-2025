@@ -14,4 +14,4 @@ This dataset includes delivery-level events, runs, wickets, extras, player actio
 Available in **JSON** and **YAML** formats.
 
 ## License
-Released under **CC0 1.0 Universal** — free to use, modify, and distribute without restrictions.
+Released under **CC0 1.0 Universal**
